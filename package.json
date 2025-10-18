@@ -14,7 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Gazala939/nodejs-urlshortner/issues"
   },
@@ -22,6 +22,7 @@
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.1.0",
-    "mongoose": "^8.19.1"
+    "mongoose": "^8.19.1",
+    "shortid": "^2.2.17"
   }
 }
